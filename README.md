@@ -3,6 +3,7 @@
 This repository contains two supervised learning projects that explore image classification for fruit recognition:
 
 *A custom Convolutional Neural Network (CNN) trained from scratch on fruit images
+
 *A Support Vector Classifier (SVC) trained on features extracted using a pretrained ResNet-18 (ResNet-18 is a convolutional neural network that is 18 layers deep)
 
 Both models are evaluated on the same dataset and compared using accuracy and confusion matrices.
