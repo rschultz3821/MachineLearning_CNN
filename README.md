@@ -2,7 +2,7 @@
 ## Overview
 This repository contains a supervised learning project that explores image classification for fruit recognition:
 
-*A custom Convolutional Neural Network (CNN) trained from scratch on fruit images
+*A custom Convolutional Neural Network (CNN) trained on fruit images
 
 ### CNN Fruit Image Classification
 #### Dataset: Fruit Classification Dataset (subset of 5 fruit types)
